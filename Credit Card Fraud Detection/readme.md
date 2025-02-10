@@ -90,7 +90,7 @@ Contributions are welcome! Feel free to submit a pull request or open an issue f
 ## 📝 **Acknowledgments**
 
 - Thanks to [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud) for providing the dataset.
-- Inspired by research and practices in fraud detection using machine learning.
+
 
 
 
