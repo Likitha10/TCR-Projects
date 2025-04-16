@@ -37,7 +37,6 @@ The dataset used in this project is sourced from Kaggle and consists of numerica
   - `imbalanced-learn` for handling class imbalance.
 - **Machine Learning Algorithms:**
   - Logistic Regression.
-  - Random Forest.
   - SMOTE (Synthetic Minority Oversampling Technique) for handling class imbalance.
 - **Evaluation Metrics:**
   - Confusion Matrix.
